@@ -1,2 +1,2 @@
-# MLN131-Website-Showcase
-A MLN131 Product, in a form of web showcase
+# PRN232 Educational Website
+Meant to display educational material in related to .NET API
